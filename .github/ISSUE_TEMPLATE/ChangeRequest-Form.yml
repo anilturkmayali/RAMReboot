@@ -1,7 +1,7 @@
 name: Change/Feature Request  
 description: Request a Change and/or a New Feature
-title: "[BUG] <title>"
-labels: [Bug, Needs Triage]
+title: "Subject"
+labels: [Change_Request, Feature_Request]
 body:
 - type: checkboxes
   attributes:
