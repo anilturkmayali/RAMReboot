@@ -1,7 +1,7 @@
 name: Request a Change/Feature Request
-description:
-title: "[Bug]: "
-labels: ["bug", "triage"]
+description: Please let us know about a feature and/or change request about an IDSA artifact.
+title: "Subject"
+labels: ["change_request", "feature_request"]
 assignees:
   - octocat
 body:
@@ -17,6 +17,22 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+      
+    - type: checkboxes
+    id: ids artifacts
+    attributes:
+      label: My request is about:
+      description: Please choose IDS assets to which your request is related to.
+      options:
+        - label: RAM and/or Specifications
+        - label: Certification
+        - label: Testbed
+        - label: Open Source Strategy Components
+        - label: Knowledge Base
+        - label: Use Case Radar
+          required: true
+          
+      
   - type: textarea
     id: what-happened
     attributes:
