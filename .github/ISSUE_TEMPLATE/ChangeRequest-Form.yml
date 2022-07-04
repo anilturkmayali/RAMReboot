@@ -8,30 +8,30 @@ body:
     label: Is there an existing issue for this?
     description: Please search to see if an issue already exists for the bug you encountered.
     options:
-    - label: I have searched the existing issues
-    - label: I have searched the existing issuesee
+    - label: RAM and/or Specifications
+    - label: Certification
+    - label: Testbed
+    - label: Open Source Strategy Components
+    - label: IDS Rulebook
+    - label: Knowledge Base
+    - label: Use Case Radar
       required: true
 - type: textarea
   attributes:
-    label: Current Behavior
-    description: A concise description of what you're experiencing.
+    label: As a(n)
+    description: Please describe your request in more detail
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Expected Behavior
-    description: A concise description of what you expected to happen.
+    label: I want to
+    description: Please describe your request in more detail
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
-    placeholder: |
-      1. In this environment...
-      2. With this config...
-      3. Run '...'
-      4. See error...
+    label: So that
+    description: Please describe your request in more detail
   validations:
     required: false
 - type: textarea
