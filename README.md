@@ -5,9 +5,14 @@ IDS Open Source Strategy is the set of features and projects that make IDS compo
 
 
 ## Most Important Links
-:link: IDS Graduation Scheme
-:arrow_forward: IDS Portfolio of Building Blocks
-:trident: IDS Deployment Scenarios
-:warning: Minimum Viable Data Space
+:link: [IDS Graduation Scheme](https://link-url-here.org)
+
+:arrow_forward: [IDS Portfolio of Building Blocks](https://link-url-here.org)
+
+:trident: [IDS Deployment Scenarios](https://link-url-here.org)
+
+:warning: [Minimum Viable Data Space](https://link-url-here.org)
+
 
 ## Roadmap
+
