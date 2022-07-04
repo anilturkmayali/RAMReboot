@@ -15,4 +15,4 @@ IDS Open Source Strategy is the set of features and projects that make IDS compo
 
 
 ## Roadmap
-
+You can check the project roadmap [here](https://github.com/users/anilturkmayali/projects/1) 
