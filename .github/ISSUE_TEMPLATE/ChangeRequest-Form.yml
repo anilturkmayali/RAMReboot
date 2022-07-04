@@ -17,7 +17,6 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
-      
     - type: checkboxes
     id: ids artifacts
     attributes:
@@ -31,8 +30,6 @@ body:
         - label: Knowledge Base
         - label: Use Case Radar
           required: true
-          
-      
   - type: textarea
     id: what-happened
     attributes:
