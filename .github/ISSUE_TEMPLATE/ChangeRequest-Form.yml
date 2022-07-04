@@ -5,7 +5,7 @@ labels: [Change_Request, Feature_Request]
 body:
 - type: checkboxes
   attributes:
-    label: Is there an existing issue for this?
+    label: To which IDS artifact(s) your request is related to? 
     description: Please search to see if an issue already exists for the bug you encountered.
     options:
     - label: RAM and/or Specifications
