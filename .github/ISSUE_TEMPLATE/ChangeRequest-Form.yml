@@ -1,5 +1,5 @@
-name: 🐞 Bug
-description: File a bug/issue
+name: :triangular_flag_on_post: Change/Feature Request  
+description: Request a Change and/or a New Feature
 title: "[BUG] <title>"
 labels: [Bug, Needs Triage]
 body:
