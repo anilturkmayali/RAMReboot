@@ -9,12 +9,14 @@ body:
     description: Please search to see if an issue already exists for the bug you encountered.
     options:
     - label: RAM and/or Specifications
-    - label: Certification
-    - label: Testbed
-    - label: Open Source Strategy Components
     - label: IDS Rulebook
+    - label: IDS Certification
+    - label: IDS Reference Testbed
+    - label: IDS Portfolio of Building Blocks
+    - label: IDS Graduation Scheme
+    - label: IDS Deployment Scenarios
     - label: Knowledge Base
-    - label: Use Case Radar
+    - label: Data Space Radar
     - label: Other(s)
 - type: textarea
   attributes:
