@@ -34,9 +34,10 @@ body:
     description: Please describe your request in more detail
   validations:
     required: false
+    
  - type: checkboxes
   attributes:
-    label: Would you like to be involved in resolving this issue?
+    label: Would you like to be involved in resolving this issue? 
     description: Please choose this option if you would like to come up with a suggestion or take the responsibility of this issue.
     options:
     - label: I would like to take initiative in resolving this issue
