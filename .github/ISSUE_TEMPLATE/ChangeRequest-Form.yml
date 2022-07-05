@@ -21,22 +21,22 @@ body:
     label: As a(n)
     description: Please describe your request in more detail
   validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
     label: I want to
     description: Please describe your request in more detail
   validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
     label: So that
     description: Please describe your request in more detail
   validations:
-    required: false
+    required: true
 - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+  attributes:
+    label: Would you be interested in contributing to make this request happen? Are there any examples you can provide? If so, please provide them here.
+    description: Please provide an answer
+  validations:
+    required: true
