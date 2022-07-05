@@ -34,13 +34,9 @@ body:
     description: Please describe your request in more detail
   validations:
     required: false
- - type: dropdown
-    id: browsers
+- type: textarea
+    id: logs
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
