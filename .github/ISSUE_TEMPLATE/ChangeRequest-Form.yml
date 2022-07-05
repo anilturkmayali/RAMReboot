@@ -1,5 +1,5 @@
 name: Change/Feature Request  
-description: Request a Change and/or a New Feature
+description: Via filling in this form, you may request a change and/or a new feature for an IDS asset. Your opinion will be added as an issue under this repo.
 title: "Subject"
 labels: [Change_Request, Feature_Request]
 body:
