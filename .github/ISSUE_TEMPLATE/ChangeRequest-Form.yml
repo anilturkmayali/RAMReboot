@@ -36,7 +36,7 @@ body:
     required: false
 - type: textarea
   attributes:
-    label: So that
+    label: Would you be interested in taking responsibility to resolve this issue?
     description: Please describe your request in more detail
   validations:
     required: false
