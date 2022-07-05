@@ -15,7 +15,6 @@ body:
     - label: IDS Rulebook
     - label: Knowledge Base
     - label: Use Case Radar
-      required: true
 - type: textarea
   attributes:
     label: As a(n)
