@@ -35,7 +35,7 @@ body:
   validations:
     required: false
     
- - type: checkboxes
+ - type: checkbox
   attributes:
     label: Would you like to be involved in resolving this issue? 
     description: Please choose this option if you would like to come up with a suggestion or take the responsibility of this issue.
